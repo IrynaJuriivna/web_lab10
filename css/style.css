@@ -1,0 +1,133 @@
+@import'fonts.css';
+
+
+.menu-bar{
+    padding-top: 45px;
+    
+    /*background-image: url("../img/header.png");
+    min-height: 530px;
+
+    background-position:center;
+    background-repeat: no-repeat;*/
+}
+
+.bg-img {
+    background-image: url("../img/header.png");
+   /* height: 550px;*/
+
+    background-position:center;
+    background-repeat: no-repeat;
+    
+background-position: center top;
+  }
+
+  body{
+      background-color: #fffcf4;
+  }
+  #blog{
+      padding-top: 375px; 
+     /* background-image: url("../img/rectangel.png");*/
+  }
+  .vid{
+      margin-top: 70px;
+  }
+  #blog h1{
+      text-align: center;
+
+      font-size: 30px;
+      font-family: 'BrandonGrotesque-Medium';
+      color:#626262;
+  }
+  #blog h2{
+      
+    margin-top: 0.4em;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'BrandonGrotesque-Medium';
+    color:#42c3ac;
+}
+#blog h3{
+    
+    margin-top: 1em;
+    margin-bottom: 1em;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'BrandonGrotesque-Regular';
+    color:#626262;
+}
+#blog p{
+    line-height: 2em;
+    margin-top: 2.5em;
+    margin-bottom: 2.5em;
+    font-size: 18px;
+    font-family: 'ACaslonPro-Regular';
+    color:#626262;
+}
+.fon{
+background-color: white;
+}
+  
+.pict{
+    width: inherit;
+}
+.pict2{
+    background-image: url("../img/rectangel.png") ;
+
+background-repeat: no-repeat;
+background-position: center top;
+}
+  
+  footer{
+    margin-top:40px;
+   padding-top:120px;
+      min-height:350px;
+    background-image: url("../img/footer.png");
+  
+text-align: center;
+    background-position:center;
+    background-repeat: no-repeat;
+    
+background-position: center top;
+  }
+  footer h1{
+    
+    text-align: center;
+padding-left: 0px;
+    font-size: 36px;
+    font-family: 'BrandonGrotesque-Medium';
+    color:#ffffff;
+}
+.shape{
+    padding-right:0px;
+    margin-right:0px;
+}
+.button {
+    margin-top:45px;
+    
+    margin-bottom:210px;
+    orientation: center;
+    align-self: center;
+    min-width: 6em;;
+    margin-bottom: 110px;
+   color: white;
+   background: transparent;
+   border: 2px solid white;
+   font-size: 24px;
+   font-family: 'BrandonGrotesque-Medium';
+ }
+ .foot1 {
+    padding-top:1em;
+     width: 100%;
+   background: #464948;
+   
+   }
+   .foot2 {
+ 
+    height:30pt;
+     width: 100%;
+   text-align: left;
+    font-family: 'BrandonGrotesque-Regular';
+    color:#ffffff;
+   
+   
+   }

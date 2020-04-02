@@ -1,0 +1,56 @@
+@font-face{
+    font-family:'BrandonGrotesque-Black';
+    src: url('../fonts/BrandonGrotesque-Black.ttf');
+}
+@font-face{
+    font-family:'BrandonGrotesque-BlackItalic';
+    src: url('../fonts/BrandonGrotesque-BlackItalic.ttf');
+}
+
+@font-face{
+    font-family:'BrandonGrotesque-Bold';
+    src: url('../fonts/BrandonGrotesque-Bold.ttf');
+}
+@font-face{
+    font-family:'BrandonGrotesque-BoldItalic';
+    src: url('../fonts/BrandonGrotesque-BoldItalic.ttf');
+}
+
+@font-face{
+    font-family:'BrandonGrotesque-Light';
+    src: url('../fonts/BrandonGrotesque-Light.ttf');
+}
+@font-face{
+    font-family:'BrandonGrotesque-LightItalic';
+    src: url('../fonts/BrandonGrotesque-LightItalic.ttf');
+}
+
+@font-face{
+    font-family:'BrandonGrotesque-Medium';
+    src: url('../fonts/BrandonGrotesque-Medium.ttf');
+}
+@font-face{
+    font-family:'BrandonGrotesque-MediumItalic';
+    src: url('../fonts/BrandonGrotesque-MediumItalic.ttf');
+}
+@font-face{
+    font-family:'BrandonGrotesque-Regular';
+    src: url('../fonts/BrandonGrotesque-Regular.ttf');
+}
+@font-face{
+    font-family:'BrandonGrotesque-RegularItalic';
+    src: url('../fonts/BrandonGrotesque-RegularItalic.ttf');
+}
+
+@font-face{
+    font-family:'BrandonGrotesque-Thin';
+    src: url('../fonts/BrandonGrotesque-Thin.ttf');
+}
+@font-face{
+    font-family:'BrandonGrotesque-ThinItalic';
+    src: url('../fonts/BrandonGrotesque-ThinItalic.ttf');
+}
+@font-face{
+    font-family:'ACaslonPro-Regular';
+    src: url('../fonts/ACaslonPro-Regular.ttf');
+}
