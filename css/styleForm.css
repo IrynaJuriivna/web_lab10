@@ -1,0 +1,135 @@
+@import'fonts.css';
+
+
+.menu-bar{
+    padding-top: 45px;
+}
+
+
+
+  body{
+      background-color: #fffcf4;
+  }
+  #blog{
+      padding-top: 80px; 
+  }
+  .vid{
+      margin-top: 70px;
+  }
+
+  
+  footer{
+  
+text-align: center;
+    background-position:center;
+    background-repeat: no-repeat;
+    
+background-position: center top;
+  }
+ h2{
+    
+    text-align: center;
+padding-left: 0px;
+    font-size: 30px;
+    font-family: 'BrandonGrotesque-Medium';
+    color:#626262;
+}
+
+form{
+    padding-top: 60px; 
+    text-align: center;
+
+}
+.shape{
+    padding-right:0px;
+    margin-right:0px;
+}
+
+.inputSt{
+    border: 2px solid #464948;
+    border-radius: 0 0 0 0;
+    background: transparent;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+
+    font-size: 26px;
+    font-family: 'BrandonGrotesque-Medium';
+    color:#464948;
+}
+.form-group {
+    margin-bottom: 1.5em;
+    
+}
+
+.button {
+    min-width: 180px;
+    font-size: 26px;
+    font-family: 'BrandonGrotesque-Medium';
+    color:#464948;
+
+    padding: 10px 10px 10px 10px;
+    border: 2px solid #464948;
+    border-radius: 0 0 0 0;
+    background: transparent;
+    
+text-align: center;
+    align-self: center;
+    orientation: center;
+ }
+ .foot1 {
+    margin-top: 4em;
+   padding-top:1em;
+   padding-bottom:1em;
+    width: 100%;
+  background: #464948;
+  
+  }
+  .foot1 a{
+      font-size: 30px;
+  }
+  .foot2 {
+
+    height:fit-content;
+    width: 100%;
+  text-align: left;
+   font-family: 'BrandonGrotesque-Regular';
+   color:#ffffff;
+  
+  
+  }
+  footer a{
+  }
+  footer p, a{
+   font-size: 24px;
+   font-family: 'BrandonGrotesque-Light';
+   color:#ffffff;
+  }
+
+   h1{
+    text-align: center;
+
+    font-size: 72px;
+    font-family: 'BrandonGrotesque-Bold';
+    color:#4ccdb6;
+}
+footer h1{
+    padding-bottom: 1em;;
+    text-align: center;
+padding-left: 0px;
+    font-size: 36px;
+    font-family: 'BrandonGrotesque-Medium';
+    color:#ffffff;
+}
+footer{
+    text-align:left ;
+    margin-top:40px;
+   padding-top:120px;
+      min-height:250px;
+    background-image: url("../img/footer.png");
+  
+    background-position:center;
+    background-repeat: no-repeat;
+    
+background-position: center top;
+  }
+

@@ -3,14 +3,28 @@
 
 .menu-bar{
     padding-top: 45px;
-    
-    /*background-image: url("../img/header.png");
-    min-height: 530px;
+    min-height: 505px;
 
+    /*background-image: url("../img/header.png");
+    
     background-position:center;
     background-repeat: no-repeat;*/
 }
 
+navbar{float: right;}
+
+a{
+    color:white;
+}
+.txt{
+    font-size:24px;
+    font-family: 'BrandonGrotesque-Medium';
+    color:#ffffff;
+}
+nav-item{
+    
+    
+}
 .bg-img {
     background-image: url("../img/header.png");
    /* height: 550px;*/
@@ -25,7 +39,7 @@ background-position: center top;
       background-color: #fffcf4;
   }
   #blog{
-      padding-top: 375px; 
+      /* padding-top: 375px; 
      /* background-image: url("../img/rectangel.png");*/
   }
   .vid{
@@ -63,6 +77,10 @@ background-position: center top;
     font-family: 'ACaslonPro-Regular';
     color:#626262;
 }
+.gam{
+    float: right;
+}
+
 .fon{
 background-color: white;
 }
@@ -77,20 +95,23 @@ background-repeat: no-repeat;
 background-position: center top;
 }
   
-  footer{
+footer{
+    text-align:left ;
     margin-top:40px;
    padding-top:120px;
       min-height:250px;
     background-image: url("../img/footer.png");
   
-text-align: center;
     background-position:center;
     background-repeat: no-repeat;
     
 background-position: center top;
   }
+
+
+
   footer h1{
-    
+    padding-bottom: 1em;;
     text-align: center;
 padding-left: 0px;
     font-size: 36px;
@@ -102,33 +123,45 @@ padding-left: 0px;
     margin-right:0px;
 }
 .button {
-    margin-top:45px;
+    min-width: 180px;
+    font-size: 26px;
+    font-family: 'BrandonGrotesque-Medium';
+    color:#464948;
+
+    padding: 10px 10px 10px 10px;
+    border: 2px solid #464948;
+    border-radius: 0 0 0 0;
+    background: transparent;
     
-    margin-bottom:210px;
-    orientation: center;
+text-align: center;
     align-self: center;
-    min-width: 6em;;
-    margin-bottom: 110px;
-   color: white;
-   background: transparent;
-   border: 2px solid white;
-   font-size: 24px;
-   font-family: 'BrandonGrotesque-Medium';
+    orientation: center;
  }
  .foot1 {
      margin-top: 4em;
     padding-top:1em;
+    padding-bottom:1em;
      width: 100%;
    background: #464948;
    
    }
+   .foot1 a{
+       font-size: 30px;
+   }
    .foot2 {
  
-    height:30pt;
+    height:fit-content;
      width: 100%;
    text-align: left;
     font-family: 'BrandonGrotesque-Regular';
     color:#ffffff;
    
    
+   }
+   footer a{
+   }
+   footer p, a{
+    font-size: 24px;
+    font-family: 'BrandonGrotesque-Light';
+    color:#ffffff;
    }
